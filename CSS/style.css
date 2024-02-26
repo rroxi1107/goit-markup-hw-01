@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    /* Setează fontul pentru text */
+    background-color: #f0f0f0;
+    /* Setează culoarea de fundal */
+    color: #333;
+    /* Setează culoarea textului */
+    margin: 0;
+    /* Elimină marginile implicite */
+    padding: 0;
+    /* Elimină padding-ul implicit */
+}
+
+
+/* Stilul pentru elementele <p> */
+p {
+    font-size: 16px;
+    /* Setează dimensiunea fontului pentru paragrafe */
+    line-height: 1.5;
+    /* Setează înălțimea liniei */
+}
+
+/* Stilul pentru clasele .container */
+.container {
+    width: 960px;
+    /* Setează lățimea containerului */
+    margin: 0 auto;
+    /* Centrează containerul pe pagină */
+}
+
+/* Stilul pentru id-ul #header */
+#header {
+    background-color: #333;
+    /* Setează culoarea de fundal pentru antet */
+    color: #fff;
+    /* Setează culoarea textului pentru antet */
+    padding: 20px;
+    /* Setează padding-ul pentru antet */
+}
+
+/* Stilul pentru clasa .button */
+.button {
+    display: inline-block;
+    /* Face butoanele să se afișeze pe aceeași linie */
+    background-color: #007bff;
+    /* Setează culoarea de fundal a butoanelor */
+    color: #fff;
+    /* Setează culoarea textului butoanelor */
+    padding: 10px 20px;
+    /* Setează padding-ul butoanelor */
+    text-decoration: none;
+    /* Elimină sublinierea textului butoanelor */
+    border-radius: 5px;
+    /* Rotunjirea colțurilor butoanelor */
+}
+
+/* Stilul pentru clasa .button la hover */
+.button:hover {
+    background-color: #0056b3;
+    /* Setează culoarea de fundal a butoanelor la hover */
+}
