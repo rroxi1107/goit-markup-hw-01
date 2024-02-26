@@ -11,11 +11,6 @@ body {
     /* Elimină padding-ul implicit */
 }
 
-/* Stilul pentru elementul <h1> */
-h1 {
-    color: #ff0000;
-    /* Setează culoarea textului pentru titluri */
-}
 
 /* Stilul pentru elementele <p> */
 p {
